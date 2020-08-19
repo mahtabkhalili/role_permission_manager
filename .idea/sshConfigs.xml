@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="dev.adilar.com" id="63bd5467-a8df-4dd7-91a2-4fe66db3e363" port="25499" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

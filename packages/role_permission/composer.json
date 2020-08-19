@@ -1,0 +1,16 @@
+{
+    "name": "moonlight/role_permission",
+    "description": "Role Permission Package",
+    "authors": [
+        {
+            "name": "Mahtab Khalili",
+            "email": "mahtabkhalili19910211@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : 
+    },
+    "require": {
+        "Illuminate/Support": "~5"
+    }
+}
