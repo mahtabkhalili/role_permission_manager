@@ -8,9 +8,12 @@
         }
     ],
     "autoload": {
-        "psr-4" : 
+        "psr-4" : {
+         "Package\\RolePermission\\": "src/"
+        }
+
     },
     "require": {
-        "Illuminate/Support": "~5"
+        "illuminate/support": "~5"
     }
 }
